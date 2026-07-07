@@ -400,6 +400,8 @@ mark {
 .folder h2 { color: #6b4a12; }
 
 .downloads { list-style: none; padding: 0 !important; margin: 0; }
+.downloads .dl-note { margin: .8rem 0 .5rem; }
+.downloads .dl-note .footnote { margin: 0; font-style: normal; }
 .downloads li { margin-bottom: .65rem; }
 .downloads a {
   display: flex;
