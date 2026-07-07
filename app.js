@@ -10,15 +10,13 @@
     { file: "GUIDE-ARTHUR.md",                         num: "★",  title: "Le guide pas-à-pas",              sub: "Par où commencer, quoi remplir, les pièges — LA fiche à lire d'abord" },
     { file: "PREVISIONNEL-FREELANCE.md",               num: "€",  title: "Prévisionnel freelance (v2)",     sub: "Scénarios, tarifs lillois, seuil de viabilité, ARE/ARCE" },
     { file: "00-analyse-du-dossier.md",                num: "0",  title: "Analyse du formulaire officiel",  sub: "Qui remplit quoi, les 4 critères de la commission" },
-    { file: "01-formation-eopi.md",                    num: "1",  title: "Formation EOPI (écartée)",        sub: "Le rapport complet et sourcé" },
-    { file: "02-formation-edai.md",                    num: "2",  title: "Formation EDAI (retenue)",        sub: "Programme, coûts, certifications, points à vérifier" },
+    { file: "01-formation-eopi.md",                    num: "1",  title: "Formation EOPI",                  sub: "Le rapport complet et sourcé (organisme, programme, coûts)" },
+    { file: "02-formation-edai.md",                    num: "2",  title: "Formation EDAI",                  sub: "Le rapport complet et sourcé (programme, certifications, coûts)" },
     { file: "03-etude-marche.md",                      num: "3",  title: "Étude de marché nationale",       sub: "ROME F1102, salaires, tendances rénovation" },
     { file: "04-dispositif-demission-reconversion.md", num: "4",  title: "Le dispositif, règles 2026",      sub: "CEP, commission, CPF 150 €, ARE, contrôles" },
-    { file: "05-synthese-benchmark-et-choix.md",       num: "5",  title: "Benchmark & choix EDAI",          sub: "Le comparatif et la justification" },
-    { file: "06-avis-instruction-audit.md",            num: "6",  title: "Premier audit (instructeur)",     sub: "Verdict, notes par critère, plan d'action" },
-    { file: "07-etude-marche-lille.md",                num: "7",  title: "Le marché lillois",               sub: "Offres, immobilier, concurrence, tarifs des pros MEL" },
-    { file: "08-parametres-financiers-freelance.md",   num: "8",  title: "Micro-entreprise 2026",           sub: "Cotisations, ACRE, TVA, charges, tarifs métier" },
-    { file: "09-audit-panel-6-agents.md",              num: "9",  title: "Le panel d'audit (6 agents)",     sub: "Verdicts croisés et correctifs appliqués" }
+    { file: "05-synthese-benchmark-et-choix.md",       num: "5",  title: "Benchmark des deux formations",   sub: "Le comparatif critère par critère" },
+    { file: "07-etude-marche-lille.md",                num: "6",  title: "Le marché lillois",               sub: "Offres, immobilier, concurrence, tarifs des pros MEL" },
+    { file: "08-parametres-financiers-freelance.md",   num: "7",  title: "Micro-entreprise 2026",           sub: "Cotisations, ACRE, TVA, charges, tarifs métier" }
   ];
 
   var byFile = {};
