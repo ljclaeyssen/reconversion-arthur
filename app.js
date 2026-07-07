@@ -16,7 +16,8 @@
     { file: "04-dispositif-demission-reconversion.md", num: "4",  title: "Le dispositif, règles 2026",      sub: "CEP, commission, CPF 150 €, ARE, contrôles" },
     { file: "05-synthese-benchmark-et-choix.md",       num: "5",  title: "Benchmark des deux formations",   sub: "Le comparatif critère par critère" },
     { file: "07-etude-marche-lille.md",                num: "6",  title: "Le marché lillois",               sub: "Offres, immobilier, concurrence, tarifs des pros MEL" },
-    { file: "08-parametres-financiers-freelance.md",   num: "7",  title: "Micro-entreprise 2026",           sub: "Cotisations, ACRE, TVA, charges, tarifs métier" }
+    { file: "08-parametres-financiers-freelance.md",   num: "7",  title: "Micro-entreprise 2026",           sub: "Cotisations, ACRE, TVA, charges, tarifs métier" },
+    { file: "10-autres-formations-cpf.md",             num: "8",  title: "Le match des formations CPF",     sub: "MMI Déco (RNCP41737) et les 41 offres du catalogue Mon Compte Formation au crible" }
   ];
 
   var byFile = {};
