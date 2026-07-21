@@ -69,7 +69,7 @@ Objectif 1 500 €/mois nets sans ARE, taux plein : CA requis = (18 000 + 3 700)
 - **Investissement de départ** : ~1 500-2 000 € (licences, RC pro, site) + **épargne de sécurité [A COMPLETER : montant, mois de charges couverts]**.
 - **ARE — le paramètre décisif** : demander à France Travail la **simulation du reliquat de droits à la fin de la formation** (l'AREF consomme les droits) ; vérifier que l'extinction des droits est postérieure au point mort. **Arbitrage** : maintien partiel si reliquat long ; **ARCE (60 % du reliquat en capital)** si reliquat court — elle finance alors précisément le budget d'acquisition.
 - **Obligations B2C à jour dès l'ouverture** : contrat de mission, CGV, médiateur de la consommation.
-- **Plan B daté** : si CA année 2 < 20 000 € au mois 18 → bascule vers le salariat (agences : 40 offres F1102/an dans le Nord, +33 % ; concepteur-vendeur agencement : Schmidt, Cuisinella, Dovy sur la MEL).
+- **Plan B daté** : si CA année 2 < 20 000 € au mois 18 → bascule vers le salariat (agences : 40 offres F1102/an dans le Nord, +33 % ; postes hybrides conception-travaux chez les agenceurs et acteurs du retail de la métropole).
 
 ---
 

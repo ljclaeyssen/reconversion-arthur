@@ -13,7 +13,7 @@ La recherche « décorateur d'intérieur » **à distance** remonte **41 offres 
 | **« Décorateur d'intérieur et aménagement d'espace »** (RNCP41737 MMI / RNCP40869 MJM) | **MMI Conseil (MMI Déco)**, School Online University, MJM Graphic Design | **MMI : 3 700 € / 525 h** ; SOU : 6 700 € (blocs séparés 2 100-2 500 € / 316 h) ; MJM asynchrone : 6 700 € / 948 h ; MJM 100 % live : 8 136 € / 480 h (année diplômante) |
 | **« Designer en architecture d'intérieur »** | School Online University, MJM (visio), INEAD | SOU asynchrone : 7 000 € / 948 h ; MJM live : 10 689-12 000 € / 949 h ; INEAD Bachelor : 4 389 € / 455 h (⚠ noté 2,3/5) |
 | **« Architecte d'intérieur - Designer d'espace »** | INEAD | Mastère 5 844 € / 445-455 h (+ blocs 2 500 €) |
-| **TP « Technicien d'études en agencement intérieur »** (titre professionnel du ministère du Travail) | Adonis, CMBC, Arinfo | Adonis : **1 910-2 890 € / 420 h** — angle « agencement/cuisiniste » = le plan B d'Arthur ! |
+| **TP « Technicien d'études en agencement intérieur »** (titre professionnel du ministère du Travail) | Adonis, CMBC, Arinfo | Adonis : **1 910-2 890 € / 420 h** — angle « études techniques d'agencement » |
 
 (+ 1 module logiciel : YouSchool SketchUp/ICDL 1 500 € / 30 h — complément, pas une formation métier.)
 
@@ -54,7 +54,7 @@ La recherche « décorateur d'intérieur » **à distance** remonte **41 offres 
 | **School Online University** | prépare « Décorateur d'intérieur et aménagement d'espace » + « Designer en archi d'intérieur » (n° de fiche exact à confirmer) | Oui | blocs de 316 h ou parcours 948 h | 6 700-7 000 € (blocs 2 100-2 500 €) | Asynchrone, blocs achetables séparément ; avis moyens (4,0-4,6/5) ; certificateur du titre à clarifier |
 | **Lignes et Formations / Educatel** (Skill&You) | RNCP40003 « Décorateur » CREAD niv. 5 — **⚠ échéance 18/12/2026** | Oui | **745 h, 11-16 mois** (jusqu'à 36) | ~2 400-2 700 € (à confirmer sur devis) | Prix attractif MAIS titre expirant fin 2026 (exiger garantie écrite de renouvellement) et volume en limite haute du filtre |
 | **INEAD** | « Designer en archi d'intérieur » / « Architecte d'intérieur-Designer d'espace » | Oui | 445-455 h | 4 389-5 844 € | ⚠ Bachelor noté **2,3/5** sur MCF — réputation à creuser avant tout |
-| **Adonis (TP agencement)** | TP « Technicien d'études en agencement intérieur » (ministère du Travail) | Oui | 420 h | **1 910-2 890 €** | Angle différent (études techniques d'agencement, chiffrage) — pertinent si Arthur privilégie le débouché concepteur/agenceur-cuisiniste ; pas une formation « déco créative » |
+| **Adonis (TP agencement)** | TP « Technicien d'études en agencement intérieur » (ministère du Travail) | Oui | 420 h | **1 910-2 890 €** | Angle différent (études techniques d'agencement, chiffrage) — pas une formation « déco créative » |
 
 ## 4. Écartées du périmètre CPF (vérifié)
 

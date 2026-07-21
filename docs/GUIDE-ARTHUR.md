@@ -75,7 +75,7 @@ Le dossier a été audité par un agent indépendant jouant un instructeur Trans
 4. **Preuve de l'épargne** (relevé) pour le complément hors CPF + **simulation réelle sur moncompteformation.gouv.fr** (⚠️ plafond de 1 500 € sur les certifications RS depuis février 2026 — la part CPF utilisable est peut-être plus faible que ton solde).
 5. **Vérifier tes 1 300 jours travaillés sur 60 mois** (fiches de paie + simulateur demission-reconversion.gouv.fr) avant d'investir plus d'énergie.
 6. **Trancher avec le CEP la mention burn-out** : soit un paragraphe assumé (« projet d'attraction, pas de fuite »), soit rien — pas d'entre-deux.
-7. **Rétro-planning daté** à joindre + éventuelles **lettres d'intérêt** (agence, cuisiniste, artisan local).
+7. **Rétro-planning daté** à joindre + éventuelles **lettres d'intérêt** (agence, agenceur, artisan local).
 8. ⚠️ **Ne rien signer qui ne soit pas advenu** : le PDF a été reformulé pour ça (« à joindre », « à réaliser avant dépôt ») — renseigne les dates seulement après avoir fait les démarches.
 
 ## Contenu du dossier `recherches/`
