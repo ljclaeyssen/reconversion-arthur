@@ -18,7 +18,9 @@
     { file: "07-etude-marche-lille.md",                num: "6",  title: "Le marché lillois",               sub: "Offres, immobilier, concurrence, tarifs des pros MEL" },
     { file: "08-parametres-financiers-freelance.md",   num: "7",  title: "Micro-entreprise 2026",           sub: "Cotisations, ACRE, TVA, charges, tarifs métier" },
     { file: "10-autres-formations-cpf.md",             num: "8",  title: "Le match des formations CPF",     sub: "MMI Déco (RNCP41737) et les 41 offres du catalogue Mon Compte Formation au crible" },
-    { file: "SONDAGE-Professionnels.md",               num: "✎",  title: "Sondage pros : le draft Google Form", sub: "19 questions prêtes à coller + message d'envoi + où le diffuser + comment l'exploiter" }
+    { file: "SONDAGE-Professionnels.md",               num: "✎",  title: "Sondage pros : le draft Google Form", sub: "19 questions prêtes à coller + message d'envoi + où le diffuser + comment l'exploiter" },
+    { file: "11-marche-emploi-salarie-hdf-idf.md",     num: "9",  title: "Emploi salarié : HdF vs IdF",     sub: "480 offres/an en IdF, 8 annonces décortiquées : le book compte, pas le bac+5" },
+    { file: "12-marche-independant-hdf-idf.md",        num: "10", title: "Indépendant : HdF vs IdF",        sub: "Transactions, parc ancien, tertiaire parisien, tarifs, revenus INSEE honnêtes" }
   ];
 
   var byFile = {};
