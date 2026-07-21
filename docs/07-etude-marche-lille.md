@@ -26,10 +26,10 @@ Sources : [France Travail Nord](https://candidat.francetravail.fr/offres/emploi/
 
 ### Employeurs types locaux ✅/⚠️
 - Agences d'architecture intérieure et cabinets (KYTOM, recrutements via LTD)
-- **Cuisinistes / agenceurs** (débouché F1102 voisin, volume supérieur) : Schmidt, Cuisinella (Villeneuve-d'Ascq), Cuisines Dovy (Lille) ; **15 offres « cuisiniste » à Lille** sur HelloWork ⚠️
+- **Agenceurs / bureaux d'études** (débouché F1102 voisin) : tissu d'agencement et de menuiserie du Nord - postes de dessinateurs et chargés d'affaires
 - **83 % des embauches F1102 dans le Nord proviennent de TPE 0-9 salariés** (Data Emploi) ✅ — marché de petites agences et d'indépendants
 
-**Lecture honnête** : marché salarié « pur » étroit sur la MEL (3-11 offres actives, 40/an dans le Nord) mais **en croissance (+33 %/an)** ; débouché dominant = indépendance + agencement/cuisine.
+**Lecture honnête** : marché salarié « pur » étroit sur la MEL (3-11 offres actives, 40/an dans le Nord) mais **en croissance (+33 %/an)** ; débouché dominant = indépendance + tissu d'agencement.
 
 ---
 

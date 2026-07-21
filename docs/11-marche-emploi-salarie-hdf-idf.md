@@ -28,14 +28,13 @@
 |---|---|---|
 | « architecte d'intérieur » France Travail | **43** | **4** |
 | « décorateur d'intérieur » France Travail | **17** | NON TROUVÉ |
-| « concepteur vendeur » France Travail | **90** | **27** |
 | « architecte d'intérieur » HelloWork | **92** (21 à Paris) | **22** (2 « pures » Lille/Croix) |
 | « décorateur d'intérieur » HelloWork | 77 (avec connexes) | 16 |
 | « architecte d'intérieur » LinkedIn | **86** Paris/IdF (264 France) | ~216 « architecte » toutes spécialités Lille |
 
-*Avertissement méthodo : les compteurs incluent des offres connexes (dessinateur, concepteur-vendeur, chef de projet agencement) - c'est le périmètre réel du ROME F1102.*
+*Avertissement méthodo : les compteurs incluent des offres connexes (dessinateur, chef de projet agencement) - c'est le périmètre réel du ROME F1102.*
 
-## 2. Exigences réelles des offres — 8 annonces analysées (21/07/2026)
+## 2. Exigences réelles des offres — 7 annonces analysées (21/07/2026)
 
 | # | Offre / employeur | Lieu, contrat | Diplôme exigé | Exp. | Logiciels | Salaire |
 |---|---|---|---|---|---|---|
@@ -45,20 +44,18 @@
 | 4 | Archi. int. - LTD | **Lille**, CDI | **Bac+2 archi int./design** | 2-6 ans | **SketchUp, AutoCAD, Adobe** | **30-35 k€** ([annonce](https://www.hellowork.com/fr-fr/emplois/81286837.html)) |
 | 5 | Archi. int. - Morgane Herve | **Croix (59)**, freelance partiel | Bac+2 à +5 | n.p. | AutoCAD, SketchUp | 1 000 €/mois partiel ([annonce](https://www.hellowork.com/fr-fr/emplois/79062221.html)) |
 | 6 | **Assistant showroom déco - Atelier Mériguet Carrère** (luxe) | Paris 12, CDI | **Aucun - « débutants acceptés »** | débutant | aucun | **24 k€ + intéressement** ([France Travail 210WDYP](https://candidat.francetravail.fr/offres/recherche/detail/210WDYP)) |
-| 7 | **Concepteur-vendeur - Cuisinella/Schmidt** | Englos (59), Amiens, Rueil... CDI | **Aucun (CAP/BEP min)** - « des personnalités plus que des diplômes », formation interne + CQP RNCP 39365 | débutant | 3D maison (formé) | fixe + variable ([job.cuisinella](https://job.cuisinella/metier/concepteur-vendeur-h-f/)) |
-| 8 | Archi. int. - Steva / Villa Beausoleil | Montrouge (92), CDI | n.p. | 5 ans | n.p. | **40-50 k€** (Indeed) |
+| 7 | Archi. int. - Steva / Villa Beausoleil | Montrouge (92), CDI | n.p. | 5 ans | n.p. | **40-50 k€** (Indeed) |
 
 ### Le constat décisif pour le dossier
 
 1. **Aucune annonce de l'échantillon n'exige un bac+5 ni ne nomme une école** : le standard est « bac+2/3 **ou équivalent** ». Le métier étant non réglementé, « le portfolio est un élément clé pour convaincre clients et recruteurs » ([Legalstart](https://www.legalstart.fr/fiches-pratiques/metiers-immobilier/devenir-architecte-interieur/) ; [devenirarchitecte.fr](https://www.devenirarchitecte.fr/etudes/sans-diplome/)). Seul le titre « CFAI » est protégé ([cfai.fr](https://www.cfai.fr/en/faq)) - non requis pour être salarié.
 2. **Le verrou réel = l'expérience et les logiciels**, pas le diplôme : AutoCAD + SketchUp + Adobe reviennent dans quasi toutes les annonces - précisément les outils enseignés par les formations visées. Un certifié d'école avec book coche les critères de niveau affichés ; la friction restera l'expérience pour les postes de chef de projet.
-3. **Les portes d'entrée débutant existent** : assistant showroom (24 k€, débutant accepté), concepteur-vendeur (aucun diplôme, formation interne), dessinateur en agencement (2 500-2 800 €/mois à Maubeuge/Feignies, Cabinet 360°), CDD 6 mois en agence parisienne (voie classique d'acquisition d'expérience).
+3. **Les portes d'entrée débutant existent** : assistant showroom (24 k€, débutant accepté), dessinateur en agencement (2 500-2 800 €/mois à Maubeuge/Feignies, Cabinet 360°), CDD 6 mois en agence parisienne (voie classique d'acquisition d'expérience) et alternance (ex. Cogedim, assistant architecte d'intérieur).
 
 ## 3. Postes adjacents accessibles (gros volumes)
 
 | Segment | IdF | HdF | Accessibilité certificat + book |
 |---|---|---|---|
-| **Concepteur-vendeur cuisine/agencement** | **90 offres** (Elite, 3JV, Howdens, Schmidt, Cuisinella, Ixina, Darty, Perene) | **27 offres** (Schmidt Englos, Cuisinella Amiens/Beauvais, SK2H) | **Très élevée** : aucun diplôme ; Schmidt Groupe recrute **« 800 personnes/an, essentiellement des concepteurs-vendeurs »** ([Studyrama Emploi](https://www.studyrama-emploi.com)) ; CQP RNCP 39365 financé |
 | Assistant / showroom déco | 8-17 offres dont « débutant accepté » | présent (SK2H...) | Élevée : motivation + sensibilité déco |
 | Dessinateur agencement / projeteur | DOMEA Nogent 30-35 k€ | Aquila RH Marquette (12,31-16 €/h), Cabinet 360° Maubeuge 2 500-2 800 €/mois | Élevée si logiciels - tissu agencement fort dans le Nord |
 | Aménagement tertiaire / retail (IdF) | AGEMA, Charrette Service, Moore Design, Kardham, EvidenceRH, design-jobs.fr | plus rare | Moyenne (exp. demandée) ; CDD 6 mois = porte d'entrée |
@@ -76,8 +73,8 @@ Paris paie ~15 % au-dessus de la moyenne nationale.
 
 ## 5. Employeurs types (relevés 21/07/2026)
 
-**IdF** : agenceurs retail/tertiaire (AGEMA, Charrette Service, Moore Design, Kardham), cabinets de recrutement spécialisés (EvidenceRH, Vene, asap.work, Michael Page, design-jobs.fr), déco de luxe (Mériguet Carrère / Ateliers de France - recrute débutants), promoteurs/résidences (Cogedim - alternance, Steva 40-50 k€), enseignes et cuisinistes (METRO Nanterre, Howdens Aubervilliers, Schmidt Rueil, Darty Cuisine).
-**HdF** : LTD/Kytom (Lille), SK2H (Marquette), Schmidt Englos, Cuisinella Amiens/Beauvais, Cabinet 360° (Maubeuge), tissu agencement du Nord.
+**IdF** : agenceurs retail/tertiaire (AGEMA, Charrette Service, Moore Design, Kardham), cabinets de recrutement spécialisés (EvidenceRH, Vene, asap.work, Michael Page, design-jobs.fr), déco de luxe (Mériguet Carrère / Ateliers de France - recrute débutants), promoteurs/résidences (Cogedim - alternance, Steva 40-50 k€), enseignes côté conception de points de vente (METRO Nanterre).
+**HdF** : LTD/Kytom (Lille), SK2H (Marquette), Cabinet 360° (Maubeuge), tissu agencement et menuiserie du Nord.
 
 ## 6. Tension / BMO
 
@@ -90,11 +87,10 @@ Paris paie ~15 % au-dessus de la moyenne nationale.
 |---|---|---|
 | Offres F1102 / 12 mois | **480** (-23 %) | **80** (+14 %) |
 | « Architecte d'intérieur » (FT / HW / LinkedIn) | 43 / 92 / 86 | 4 / 22 / - |
-| « Concepteur vendeur » (FT) | **90** | **27** |
 | Embauches trimestrielles | 540 (+17 %) | 60 |
 | Part CDI | 19 % (67 % CDD courts) | 23 % |
 | Salaire junior | 2 200-2 800 €/mois | ~2 300-2 900 €/mois |
 | Diplôme exigé dans les annonces | Bac+2/3 « ou équivalent », jamais bac+5 nommé | idem |
-| Ouvert aux débutants | assistant showroom, concepteur-vendeur, CDD agences | concepteur-vendeur, dessinateur agencement |
+| Ouvert aux débutants | assistant showroom, CDD agences, alternance | dessinateur agencement |
 
-**Conclusion argumentable en commission** : (1) métier non réglementé, annonces à bac+2/3 « équivalent » + logiciels + book → le profil certifié d'école est éligible aux offres relevées ; (2) le verrou réel est l'expérience → validation de la stratégie d'entrée par les segments à recrutement débutant massif (117 offres concepteur-vendeur cumulées, 800 recrutements/an chez Schmidt) puis évolution vers les postes d'agence (480 offres/an IdF) et l'indépendance ; (3) double ancrage HdF (croissance +14 %) / IdF (volume ×6) = débouchés maximisés.
+**Conclusion argumentable en commission** : (1) métier non réglementé, annonces à bac+2/3 « équivalent » + logiciels + book → le profil certifié d'école est éligible aux offres relevées ; (2) le verrou réel est l'expérience → validation de la stratégie d'entrée par les postes accessibles aux débutants (assistant showroom, dessinateur en agencement, CDD en agence, alternance) puis évolution vers les postes d'agence (480 offres/an IdF) et l'indépendance ; (3) double ancrage HdF (croissance +14 %) / IdF (volume ×6) = débouchés maximisés.
