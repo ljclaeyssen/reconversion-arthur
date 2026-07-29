@@ -21,7 +21,8 @@
     { file: "SONDAGE-Professionnels.md",               num: "✎",  title: "Sondage pros : le draft Google Form", sub: "19 questions prêtes à coller + message d'envoi + où le diffuser + comment l'exploiter" },
     { file: "11-marche-emploi-salarie-hdf-idf.md",     num: "9",  title: "Emploi salarié : HdF vs IdF",     sub: "480 offres/an en IdF, 8 annonces décortiquées : le book compte, pas le bac+5" },
     { file: "12-marche-independant-hdf-idf.md",        num: "10", title: "Indépendant : HdF vs IdF",        sub: "Transactions, parc ancien, tertiaire parisien, tarifs, revenus INSEE honnêtes" },
-    { file: "13-debouches-retail-tertiaire.md",        num: "11", title: "Le débouché retail / tertiaire",   sub: "Cellules commerciales, foncières (Carmila, Nhood), agenceurs : là où l'expérience Carrefour compte double" }
+    { file: "13-debouches-retail-tertiaire.md",        num: "11", title: "Le débouché retail / tertiaire",   sub: "Cellules commerciales, foncières (Carmila, Nhood), agenceurs : là où l'expérience Carrefour compte double" },
+    { file: "14-sondage-resultats-bruts.md",           num: "12", title: "Sondage : les résultats bruts",    sub: "Les 5 réponses complètes, question par question, verbatims exacts (fautes comprises)" }
   ];
 
   var byFile = {};
